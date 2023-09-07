@@ -23,7 +23,7 @@ int numeroFilas = 5;
 		<%=i %>
 	</td>
 	<td class="border-double border-2 border-sky-500 text-4xl">
-		Cesar Garcia
+		Cesar Garcia Commit
 	</td>
 	<td class="border-double border-2 border-sky-500 text-4xl">
 		<% if (i<10) {%>
